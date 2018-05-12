@@ -1,6 +1,6 @@
 # Fusion Of Ideas Project
 
-Application creates, edits, and deletes data from SQL Database with PHP
+Application creates, edits, and deletes data from three tables on SQL Database with PHP. These tables are Client, Section, and Link
 
 Start by creating a Client by entering a name
 
