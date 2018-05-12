@@ -23,4 +23,4 @@ You can edit and delete all the data in Client, Section, and Link tables
 <img width="1298" alt="screen shot 2018-05-11 at 8 45 09 pm" src="https://user-images.githubusercontent.com/21114877/39953302-95a4f5ec-555d-11e8-8ab4-0b359150df10.png">
 <img width="1279" alt="screen shot 2018-05-11 at 8 44 43 pm" src="https://user-images.githubusercontent.com/21114877/39953305-ac2fc382-555d-11e8-9900-148869977a1b.png">
 
-If a parent row is deleted the child row will be deleted as well
+If a parent row is deleted the child rows will be deleted as well
